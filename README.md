@@ -4,5 +4,4 @@ Extracts HTML elements by tag name using pure C, by <code>start</code> tag and <
   ./main input_file start middle end output_file
 
 <strong>Example:</strong>
-  ./main index.html '<div class="container">' '<div' '</div>' extracted.html
-
+  ./main index.html '&lt;div class="container"&gt;' '&lt;div' '&lt;/div&gt;' extracted.html
