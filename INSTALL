@@ -1,0 +1,5 @@
+macOS:
+clang -O3 -o html_element_extractor main.c
+
+Linux:
+gcc -O3 -o html_element_extractor main.c
